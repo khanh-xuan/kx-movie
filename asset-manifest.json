@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.9b2975e3.chunk.css",
-    "main.js": "./static/js/main.adf1a330.chunk.js",
-    "main.js.map": "./static/js/main.adf1a330.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.8ba6d000.js",
-    "runtime-main.js.map": "./static/js/runtime-main.8ba6d000.js.map",
-    "static/css/2.2894c9e2.chunk.css": "./static/css/2.2894c9e2.chunk.css",
-    "static/js/2.3d540baf.chunk.js": "./static/js/2.3d540baf.chunk.js",
-    "static/js/2.3d540baf.chunk.js.map": "./static/js/2.3d540baf.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.2894c9e2.chunk.css.map": "./static/css/2.2894c9e2.chunk.css.map",
-    "static/css/main.9b2975e3.chunk.css.map": "./static/css/main.9b2975e3.chunk.css.map",
-    "static/js/2.3d540baf.chunk.js.LICENSE.txt": "./static/js/2.3d540baf.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "./static/media/boxicons.cbd149c5.ttf",
-    "static/media/footer-bg.67e95f05.jpg": "./static/media/footer-bg.67e95f05.jpg",
-    "static/media/tmovie.67797e94.png": "./static/media/tmovie.67797e94.png"
+    "main.css": "/kx-movie/static/css/main.88f968e3.chunk.css",
+    "main.js": "/kx-movie/static/js/main.0a4fb0ac.chunk.js",
+    "main.js.map": "/kx-movie/static/js/main.0a4fb0ac.chunk.js.map",
+    "runtime-main.js": "/kx-movie/static/js/runtime-main.9f052e0e.js",
+    "runtime-main.js.map": "/kx-movie/static/js/runtime-main.9f052e0e.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/kx-movie/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.50bf61e5.chunk.js": "/kx-movie/static/js/2.50bf61e5.chunk.js",
+    "static/js/2.50bf61e5.chunk.js.map": "/kx-movie/static/js/2.50bf61e5.chunk.js.map",
+    "index.html": "/kx-movie/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/kx-movie/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.88f968e3.chunk.css.map": "/kx-movie/static/css/main.88f968e3.chunk.css.map",
+    "static/js/2.50bf61e5.chunk.js.LICENSE.txt": "/kx-movie/static/js/2.50bf61e5.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/kx-movie/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/kx-movie/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/kx-movie/static/media/tmovie.67797e94.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ba6d000.js",
+    "static/js/runtime-main.9f052e0e.js",
     "static/css/2.2894c9e2.chunk.css",
-    "static/js/2.3d540baf.chunk.js",
-    "static/css/main.9b2975e3.chunk.css",
-    "static/js/main.adf1a330.chunk.js"
+    "static/js/2.50bf61e5.chunk.js",
+    "static/css/main.88f968e3.chunk.css",
+    "static/js/main.0a4fb0ac.chunk.js"
   ]
 }
